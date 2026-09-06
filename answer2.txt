@@ -12,7 +12,7 @@ uusi moduuli "node_modules/@eslint-community/regexpp": {
 
 vanha moduuli node_modules/@eslint/js": {
       "version": "8.57.0"
-uusi moduuli node_modules/@eslint/js": {
+uusi moduuli node_modules/@eslint/js": { 
       "version": "8.57.1"
     
 vanha moduuli node_modules/@humanwhocodes/config-array": {
