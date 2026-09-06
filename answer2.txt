@@ -1,0 +1,21 @@
+Alla muutamia muuttuneita moduuleja
+
+vanha moduuli "node_modules/@eslint-community/eslint-utils": {
+      "version": "4.4.0",
+uusi moduuli "node_modules/@eslint-community/eslint-utils": {
+      "version": "4.10.1"
+
+vanha moduuli "node_modules/@eslint-community/regexpp": {
+      "version": "4.10.1" 
+uusi moduuli "node_modules/@eslint-community/regexpp": {
+      "version": "4.12.2"
+
+vanha moduuli node_modules/@eslint/js": {
+      "version": "8.57.0"
+uusi moduuli node_modules/@eslint/js": {
+      "version": "8.57.1"
+    
+vanha moduuli node_modules/@humanwhocodes/config-array": {
+      "version": "0.11.14"
+uusi moduuli node_modules/@humanwhocodes/config-array": {
+      "version": "0.13.0"
